@@ -1,2 +1,2 @@
 # sampling-theorem-simulation
-python simulation and trchinical report for sampling theorem and aliasing
+python simulation and techinical report for sampling theorem and aliasing
